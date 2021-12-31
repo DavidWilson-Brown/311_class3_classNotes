@@ -1,7 +1,7 @@
 {
     "name" : "first-app",
     "scripts" : {
-        "start" : "node index.js"
+        "start" : "node ./311_class3_classNotes/index.js"
     },
     "main" : "index.js",
     "dependencies" : {
